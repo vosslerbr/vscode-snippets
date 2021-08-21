@@ -4,5 +4,12 @@
     "prefix": ["background", "image"],
     "body": ["background-image: url('');"],
     "description": "Add a background image."
+  },
+
+  "media-query": {
+    "scope": "css",
+    "prefix": ["media"],
+    "body": "@media only screen and (max-width:px) {\n\n}",
+    "description": "Boilerplate Media Query"
   }
 }
