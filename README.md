@@ -2,7 +2,7 @@
 
 A repo of useful VS Code snippets
 
-## To use snippets in VS Code
+## To add snippets in VS Code
 
 This page from the VS Code docs explains it better than I could:
 https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets
