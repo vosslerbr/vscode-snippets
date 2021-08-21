@@ -37,7 +37,7 @@ All snippets are written with ES6 where possible.
 
 ## TypeScript
 
-All TypeScript snippets will be typed where appropriate
+All TypeScript snippets will be typed where appropriate.
 
 ## Default Parameters
 
