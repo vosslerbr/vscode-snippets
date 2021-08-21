@@ -1,0 +1,8 @@
+{
+  "New Snippet": {
+    "scope": "json",
+    "prefix": "snippet",
+    "body": "\"SnippetNameHere\": {\n\"scope\": \"\",\n\"prefix\": [\"\"],\n\"body\": \"\",\n\"description\": \"Add a new snippet to your config.\"}",
+    "description": "Add a new snippet to your config."
+  }
+}
