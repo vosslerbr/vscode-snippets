@@ -2,7 +2,7 @@
   "Random Number": {
     "scope": "javascript",
     "prefix": ["random"],
-    "body": ["= (maxVal = 1) => {\n  return Math.floor(Math.random() * maxVal);\n};"],
+    "body": ["(maxVal = 1) => {\n  return Math.floor(Math.random() * maxVal);\n};"],
     "description": "Generates a random number between 0 and number passed in. Default is between 0 and 1 if no argument passed."
   }
 }

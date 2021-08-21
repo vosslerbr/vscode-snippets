@@ -2,7 +2,7 @@
   "Random Number - TypeScript": {
     "scope": "typescript",
     "prefix": ["random"],
-    "body": ["= (maxVal: number = 1): number => {\nreturn Math.floor(Math.random() * maxVal);\n};"],
+    "body": ["(maxVal: number = 1): number => {\nreturn Math.floor(Math.random() * maxVal);\n};"],
     "description": "Generates a random number between 0 and number passed in. Default is between 0 and 1 if no argument passed."
   }
 }
