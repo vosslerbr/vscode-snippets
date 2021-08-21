@@ -1,0 +1,8 @@
+{
+  "background-image": {
+    "scope": "css",
+    "prefix": ["background", "image"],
+    "body": ["background-image: url('');"],
+    "description": "Add a background image."
+  }
+}
