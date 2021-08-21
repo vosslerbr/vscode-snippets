@@ -22,6 +22,7 @@ const variableName = {{snippet}}
 Where `{{snippet}}` is the spot you call the snippet you need.
 
 Example:
+`example.js`
 
 ```
 const randomNum = {{random}}
