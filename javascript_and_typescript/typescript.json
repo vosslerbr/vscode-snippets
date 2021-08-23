@@ -4,5 +4,12 @@
     "prefix": ["random"],
     "body": ["(maxVal: number = 1): number => {\nreturn Math.floor(Math.random() * maxVal);\n};"],
     "description": "Generates a random number between 0 and number passed in. Default is between 0 and 1 if no argument passed."
+  },
+
+  "Arrow Function - Typescript": {
+    "scope": "typescript",
+    "prefix": ["arrow", "arrfn"],
+    "body": ["() => {\n\n}"],
+    "description": "Inserts an empty arrow function."
   }
 }
