@@ -11,5 +11,40 @@
     "prefix": ["media"],
     "body": "@media only screen and (max-width:px) {\n\n}",
     "description": "Boilerplate Media Query"
+  },
+
+  "font-size": {
+    "scope": "css",
+    "prefix": ["font", "size", "font-size"],
+    "body": "font-size: 14px;\n",
+    "description": "Font Size - px, large, 150%, initial, inherit "
+  },
+
+  "Font-Family": {
+    "scope": "css",
+    "prefix": ["font", "family", "font-family"],
+    "body": "font-family: 'Times New Roman', Times, serif;\n",
+    "description": "Font-Family - family-name, initial, inherit"
+  },
+
+  "Border": {
+    "scope": "css",
+    "prefix": ["border"],
+    "body": "border: 10px 10px;\n",
+    "description": "CSS for a 10px x 10px border around element."
+  },
+
+  "Margin": {
+    "scope": "css",
+    "prefix": ["margin"],
+    "body": "margin: 10px 10px;\n",
+    "description": "CSS for a 10px x 10px margin around element."
+  },
+  "Padding": {
+    "scope": "css",
+    "prefix": ["padding"],
+    "body": "padding: 10px 10px;\n",
+    "description": "CSS for a 10px x 10px padding around element."
   }
+  
 }
