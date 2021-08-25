@@ -17,7 +17,7 @@ Snippets that return a function do NOT return a named function, but instead retu
 const variableName = {{snippet}}
 ```
 
-Where `{{snippet}}` is the spot you call the snippet you need.
+Where `{{snippet}}` is the spot you call the shortcut for the snippet you need.
 
 Example:
 
@@ -26,7 +26,7 @@ const randomNum = {{random}}
 
 would turn into:
 
-const random = (maxVal = 1) => {
+const randomNum = (maxVal = 1) => {
   return Math.floor(Math.random() * maxVal);
 };
 ```
