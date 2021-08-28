@@ -46,6 +46,42 @@
     "prefix": ["padding"],
     "body": "padding: 10px 10px;\n",
     "description": "CSS for a 10px x 10px padding around element."
+  },
+  "color": {
+    "scope": "css",
+    "prefix": ["color"],
+    "body": "color: #333333;\n",
+    "description": "CSS for applying color to an element (hex)."
+  },
+  "background-color": {
+    "scope": "css",
+    "prefix": ["background", "color"],
+    "body": "background-color: #333333;\n",
+    "description": "CSS for applying background-color to an element (hex)."
+  },
+  "display-inline": {
+    "scope": "css",
+    "prefix": ["display-inline", "inline"],
+    "body": "display: inline;\n",
+    "description": "CSS for applying display inline to an element."
+  },
+  "display-block": {
+    "scope": "css",
+    "prefix": ["display-block", "block"],
+    "body": "display: block;\n",
+    "description": "CSS for applying display block to an element."
+  },
+  "display-inline-block": {
+    "scope": "css",
+    "prefix": ["display-inline-block", "inline", "block"],
+    "body": "display: inline-block;\n",
+    "description": "CSS for applying display inline-block to an element."
+  },
+  "display-none": {
+    "scope": "css",
+    "prefix": ["display-none", "none"],
+    "body": "display: none;\n",
+    "description": "CSS for applying display none to an element."
   }
   
 }
