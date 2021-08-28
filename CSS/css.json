@@ -40,6 +40,7 @@
     "body": "margin: 10px 10px;\n",
     "description": "CSS for a 10px x 10px margin around element."
   },
+
   "Padding": {
     "scope": "css",
     "prefix": ["padding"],
